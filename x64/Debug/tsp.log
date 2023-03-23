@@ -1,0 +1,7 @@
+﻿  main.cpp
+  tsp.cpp
+D:\Program_files\Cpp\christofides-algorithm\tsp.cpp(77,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Program_files\Cpp\christofides-algorithm\tsp.cpp(78,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Program_files\Cpp\christofides-algorithm\tsp.cpp(79,14): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  tsp.vcxproj -> D:\Program_files\Cpp\christofides-algorithm\x64\Debug\tsp.exe

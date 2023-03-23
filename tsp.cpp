@@ -23,6 +23,7 @@ TSP::TSP(string in, string out){
 	
 	//READ DATA
 	int c, x, y;
+	//float x, y;
 	int count = 0;
 	while(!inStream.eof()){
 		inStream >> c >> x >> y;
